@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sweat_to_create" target="blank"><img src="https://img.shields.io/twitter/follow/saba_raheem_?logo=twitter&style=for-the-badge" alt="saba_raheem_" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, python,**
-
 - 👨‍💻 All of my projects are available at [https://graphicdesignerportfolio.art.blog/](https://graphicdesignerportfolio.art.blog/)
 
 - 📝 I regularly write articles on [https://medium.com/@sabaraheem357](https://medium.com/@sabaraheem357)
