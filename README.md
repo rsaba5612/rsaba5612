@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sabaraheem357](https://medium.com/@sabaraheem357)
 
-- 💬 Ask me about **Web development and Personal Branding**
+- 💬 Ask me about **Website | SEO | Personal Branding**
 
 - 📫 How to reach me **createofficial64@gmail.com**
 
