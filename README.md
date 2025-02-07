@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saba Raheem</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate developer and Personal Branding from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaba5612&label=Profile%20views&color=0e75b6&style=flat" alt="rsaba5612" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sabaraheem357](https://medium.com/@sabaraheem357)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development and Personal Branding**
 
 - 📫 How to reach me **createofficial64@gmail.com**
 
